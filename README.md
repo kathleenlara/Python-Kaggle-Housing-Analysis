@@ -1,11 +1,11 @@
 # advanced-regression-techniques
 
-Here's a project on Data Preperation using Python and feature engineering using 6 Assumptions
-Assumption 1 - Minimal Multicollinearity
-Assumption 2 - Linearity
-Assumption 3 - Mean of Residuals is Zero
-Assumption 4 - Normality
-Assumption 5 - Regression
+Here's a project on Data Preperation using Python and feature engineering using 6 Assumptions of Multiple Linear Regression
+<br>Assumption 1 - Minimal Multicollinearity
+<br>Assumption 2 - Linearity
+<br>Assumption 3 - Mean of Residuals is Zero
+<br>Assumption 4 - Normality
+<br>Assumption 5 - Regression
 
 # Getting Started
 1. Install the latest version of python via homebrew
